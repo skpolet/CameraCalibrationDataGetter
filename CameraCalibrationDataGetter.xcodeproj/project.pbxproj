@@ -14,6 +14,7 @@
 		E13F20622812E05700F702D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E13F20612812E05700F702D7 /* Assets.xcassets */; };
 		E13F20652812E05700F702D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E13F20632812E05700F702D7 /* LaunchScreen.storyboard */; };
 		E13F206D2812E23700F702D7 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13F206C2812E23700F702D7 /* CameraView.swift */; };
+		E13F20702812EF5A00F702D7 /* CameraProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13F206F2812EF5A00F702D7 /* CameraProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E13F20642812E05700F702D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E13F20662812E05700F702D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E13F206C2812E23700F702D7 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
+		E13F206F2812EF5A00F702D7 /* CameraProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E13F205A2812E05500F702D7 /* SceneDelegate.swift */,
 				E13F205C2812E05500F702D7 /* ViewController.swift */,
 				E13F206C2812E23700F702D7 /* CameraView.swift */,
+				E13F206F2812EF5A00F702D7 /* CameraProvider.swift */,
 				E13F205E2812E05500F702D7 /* Main.storyboard */,
 				E13F20612812E05700F702D7 /* Assets.xcassets */,
 				E13F20632812E05700F702D7 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				E13F205D2812E05500F702D7 /* ViewController.swift in Sources */,
 				E13F20592812E05500F702D7 /* AppDelegate.swift in Sources */,
+				E13F20702812EF5A00F702D7 /* CameraProvider.swift in Sources */,
 				E13F205B2812E05500F702D7 /* SceneDelegate.swift in Sources */,
 				E13F206D2812E23700F702D7 /* CameraView.swift in Sources */,
 			);
